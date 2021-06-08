@@ -1,4 +1,4 @@
-# solving quadratic equation method 1 without using sqrt
+# solving quadratic equation method 1 without using cmath(sqrt in-built)
 a=int(input("Enter value for a:"))
 b=int(input("Enter value for b:"))
 c=int(input("Enter value for c:"))
